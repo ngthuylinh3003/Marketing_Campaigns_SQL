@@ -36,10 +36,10 @@ With **200,000 unique rows of data spanning two years**, this dataset offers a c
 ### 3) 📊 Scope  
 
 With this analysis, companies and marketers can uncover valuable insights regarding:  
- **Campaign performance**  
- **Audience preferences**  
- **Channel effectiveness**  
- **ROI optimization** 
+- **Campaign performance**  
+- **Audience preferences**  
+- **Channel effectiveness**  
+- **ROI optimization** 
 (depending on each company's objectives, aiming to **maximize ROI** while **minimizing costs**).  
 
 ### 4) 📊  3 main parts
