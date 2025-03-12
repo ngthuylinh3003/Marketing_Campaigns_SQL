@@ -1,0 +1,101 @@
+Campaign_ID,Company,Campaigns,Channels,Acquisition_Cost,ROI,Performance_level,Clicks,Impressions,Conversions,Conversion_Rate,Engagement_Score,Customer_Segment,Gender,Age,Location,Started_day,Duration_days,End_day,Month,Month_fullname,Mon_name
+1,Innovate Industries,Email,Google Ads,16174,6.29,Good,506,1922,20,0.04,6,Health & Wellness,Men,18-24,Chicago,2021-01-01,30,2021-01-31,1,January,Jan
+2,NexGen Systems,Email,Google Ads,11566,5.61,Good,116,7523,14,0.12,7,Fashionistas,Women,35-44,New York,2021-01-02,60,2021-03-03,1,January,Jan
+3,Alpha Innovations,Influencer,YouTube,10200,7.18,Excellent,584,7698,41,0.07,1,Outdoor Adventurers,Men,25-34,Los Angeles,2021-01-03,30,2021-02-02,1,January,Jan
+4,DataTech Solutions,Display,YouTube,12724,5.55,Good,217,1820,24,0.11,7,Health & Wellness,Both,All ages,Miami,2021-01-04,60,2021-03-05,1,January,Jan
+5,NexGen Systems,Email,YouTube,16452,6.5,Good,379,4201,19,0.05,3,Health & Wellness,Men,25-34,Los Angeles,2021-01-05,15,2021-01-20,1,January,Jan
+6,DataTech Solutions,Display,Instagram,9716,4.36,Good,100,1643,7,0.07,1,Foodies,Both,All ages,New York,2021-01-06,15,2021-01-21,1,January,Jan
+7,NexGen Systems,Email,Website,11067,2.86,Poor,817,8749,106,0.13,10,Tech Enthusiasts,Women,35-44,Los Angeles,2021-01-07,60,2021-03-08,1,January,Jan
+8,DataTech Solutions,Search,Google Ads,13280,5.55,Good,624,7854,50,0.08,7,Outdoor Adventurers,Men,18-24,Los Angeles,2021-01-08,45,2021-02-22,1,January,Jan
+9,Alpha Innovations,Social Media,Facebook,18066,6.73,Good,861,1754,77,0.09,6,Tech Enthusiasts,Women,35-44,Chicago,2021-01-09,15,2021-01-24,1,January,Jan
+10,TechCorp,Email,Instagram,13766,3.78,Poor,642,3856,58,0.09,3,Tech Enthusiasts,Women,35-44,Los Angeles,2021-01-10,15,2021-01-25,1,January,Jan
+11,NexGen Systems,Display,Email,8590,3.49,Poor,321,6628,39,0.12,10,Tech Enthusiasts,Men,25-34,New York,2021-01-11,45,2021-02-25,1,January,Jan
+12,Innovate Industries,Influencer,Google Ads,17502,3.59,Poor,659,8948,33,0.05,1,Foodies,Men,25-34,Los Angeles,2021-01-12,60,2021-03-13,1,January,Jan
+13,TechCorp,Social Media,Facebook,17189,4.91,Good,677,8817,61,0.09,10,Tech Enthusiasts,Men,25-34,Chicago,2021-01-13,60,2021-03-14,1,January,Jan
+14,TechCorp,Email,Instagram,9975,7.06,Excellent,994,2201,139,0.14,4,Health & Wellness,Men,25-34,New York,2021-01-14,45,2021-02-28,1,January,Jan
+15,TechCorp,Display,Website,11346,5.28,Good,482,8470,19,0.04,1,Outdoor Adventurers,Both,All ages,Chicago,2021-01-15,45,2021-03-01,1,January,Jan
+16,Innovate Industries,Social Media,YouTube,9407,2.91,Poor,299,1512,33,0.11,5,Health & Wellness,Women,35-44,New York,2021-01-16,60,2021-03-17,1,January,Jan
+17,Innovate Industries,Display,Website,5478,4.53,Good,931,2488,74,0.08,3,Fashionistas,Women,35-44,Houston,2021-01-17,45,2021-03-03,1,January,Jan
+18,Alpha Innovations,Influencer,Instagram,9485,4.48,Good,218,9264,31,0.14,9,Health & Wellness,Men,18-24,Miami,2021-01-18,15,2021-02-02,1,January,Jan
+19,Alpha Innovations,Social Media,Google Ads,19224,6.08,Good,182,5798,13,0.07,1,Foodies,Men,25-34,New York,2021-01-19,60,2021-03-20,1,January,Jan
+20,DataTech Solutions,Influencer,Google Ads,10258,3.83,Poor,193,3677,17,0.09,1,Tech Enthusiasts,Men,25-34,Miami,2021-01-20,15,2021-02-04,1,January,Jan
+21,DataTech Solutions,Search,Email,16580,7.99,Excellent,975,1561,39,0.04,3,Outdoor Adventurers,Women,25-34,New York,2021-01-21,15,2021-02-05,1,January,Jan
+22,TechCorp,Influencer,Facebook,12824,6.21,Good,319,8586,6,0.02,2,Foodies,Both,All ages,New York,2021-01-22,30,2021-02-21,1,January,Jan
+23,NexGen Systems,Social Media,YouTube,8699,2.12,Poor,646,3841,84,0.13,5,Health & Wellness,Women,35-44,Miami,2021-01-23,15,2021-02-07,1,January,Jan
+24,Innovate Industries,Email,Facebook,17608,7.31,Excellent,764,2157,31,0.04,8,Health & Wellness,Women,25-34,Miami,2021-01-24,15,2021-02-08,1,January,Jan
+25,NexGen Systems,Social Media,YouTube,8773,6.03,Good,527,1733,37,0.07,1,Fashionistas,Men,18-24,Miami,2021-01-25,60,2021-03-26,1,January,Jan
+26,NexGen Systems,Search,Instagram,14756,6.23,Good,809,8236,32,0.04,10,Health & Wellness,Women,25-34,Houston,2021-01-26,45,2021-03-12,1,January,Jan
+27,Alpha Innovations,Email,Facebook,9182,6.03,Good,953,6916,86,0.09,5,Fashionistas,Women,25-34,Houston,2021-01-27,45,2021-03-13,1,January,Jan
+28,TechCorp,Email,YouTube,6601,3.29,Poor,604,2420,42,0.07,3,Foodies,Men,25-34,New York,2021-01-28,30,2021-02-27,1,January,Jan
+29,TechCorp,Influencer,Email,11552,7.12,Excellent,384,7620,35,0.09,7,Tech Enthusiasts,Men,18-24,Chicago,2021-01-29,60,2021-03-30,1,January,Jan
+30,TechCorp,Social Media,Email,11608,3.61,Poor,952,4055,86,0.09,1,Tech Enthusiasts,Women,25-34,Los Angeles,2021-01-30,30,2021-03-01,1,January,Jan
+31,Innovate Industries,Search,Instagram,13124,2.77,Poor,512,4837,36,0.07,4,Tech Enthusiasts,Men,25-34,Houston,2021-01-31,45,2021-03-17,1,January,Jan
+32,NexGen Systems,Influencer,YouTube,13245,6.83,Good,309,2885,22,0.07,7,Foodies,Both,All ages,New York,2021-02-01,45,2021-03-18,2,February,Feb
+33,NexGen Systems,Display,Email,5796,4.42,Good,367,3218,22,0.06,9,Foodies,Women,35-44,New York,2021-02-02,45,2021-03-19,2,February,Feb
+34,Alpha Innovations,Influencer,Google Ads,15082,2.71,Poor,243,5724,34,0.14,4,Health & Wellness,Women,25-34,Los Angeles,2021-02-03,45,2021-03-20,2,February,Feb
+35,NexGen Systems,Influencer,YouTube,18332,7.81,Excellent,360,5349,25,0.07,6,Fashionistas,Men,18-24,Houston,2021-02-04,30,2021-03-06,2,February,Feb
+36,TechCorp,Display,Instagram,13256,2.51,Poor,250,7373,23,0.09,3,Health & Wellness,Men,25-34,Miami,2021-02-05,60,2021-04-06,2,February,Feb
+37,DataTech Solutions,Display,Email,15779,7.24,Excellent,822,7152,33,0.04,1,Foodies,Both,All ages,New York,2021-02-06,45,2021-03-23,2,February,Feb
+38,Innovate Industries,Influencer,Facebook,7683,2.62,Poor,833,9772,50,0.06,8,Tech Enthusiasts,Men,18-24,Houston,2021-02-07,60,2021-04-08,2,February,Feb
+39,Innovate Industries,Search,Instagram,14742,2.21,Poor,663,9473,73,0.11,10,Tech Enthusiasts,Men,25-34,Chicago,2021-02-08,30,2021-03-10,2,February,Feb
+40,Innovate Industries,Search,Google Ads,15495,6.97,Good,268,5495,21,0.08,6,Fashionistas,Men,18-24,Chicago,2021-02-09,45,2021-03-26,2,February,Feb
+41,DataTech Solutions,Social Media,Website,18684,4.57,Good,212,4718,8,0.04,4,Foodies,Both,All ages,New York,2021-02-10,30,2021-03-12,2,February,Feb
+42,Alpha Innovations,Search,Email,13096,3.44,Poor,360,2776,4,0.01,1,Foodies,Men,25-34,Los Angeles,2021-02-11,45,2021-03-28,2,February,Feb
+43,Innovate Industries,Display,Instagram,7818,5.6,Good,598,8637,54,0.09,5,Fashionistas,Men,25-34,Houston,2021-02-12,60,2021-04-13,2,February,Feb
+44,Innovate Industries,Display,Instagram,8214,4.77,Good,988,1612,89,0.09,5,Fashionistas,Both,All ages,Chicago,2021-02-13,30,2021-03-15,2,February,Feb
+45,DataTech Solutions,Email,Google Ads,6882,3.31,Poor,282,8038,11,0.04,7,Tech Enthusiasts,Men,18-24,Miami,2021-02-14,45,2021-03-31,2,February,Feb
+46,NexGen Systems,Display,Google Ads,13470,6.8,Good,992,8036,30,0.03,8,Health & Wellness,Women,35-44,Miami,2021-02-15,60,2021-04-16,2,February,Feb
+47,DataTech Solutions,Search,YouTube,14948,7.4,Excellent,903,3940,54,0.06,3,Foodies,Men,25-34,New York,2021-02-16,60,2021-04-17,2,February,Feb
+48,Innovate Industries,Social Media,Instagram,15255,3.8,Poor,629,1824,25,0.04,3,Health & Wellness,Men,18-24,Chicago,2021-02-17,60,2021-04-18,2,February,Feb
+49,TechCorp,Display,Facebook,9510,5.25,Good,190,2071,19,0.1,4,Tech Enthusiasts,Both,All ages,Houston,2021-02-18,60,2021-04-19,2,February,Feb
+50,TechCorp,Social Media,Email,7521,3.98,Poor,150,7377,17,0.11,8,Tech Enthusiasts,Women,25-34,Los Angeles,2021-02-19,45,2021-04-05,2,February,Feb
+51,NexGen Systems,Search,Facebook,10405,5.79,Good,134,8463,16,0.12,9,Foodies,Men,25-34,Los Angeles,2021-02-20,60,2021-04-21,2,February,Feb
+52,NexGen Systems,Search,Website,15955,6.48,Good,657,9831,66,0.1,7,Foodies,Men,25-34,Houston,2021-02-21,15,2021-03-08,2,February,Feb
+53,TechCorp,Email,Facebook,15428,7.62,Excellent,385,4937,50,0.13,6,Tech Enthusiasts,Men,18-24,Houston,2021-02-22,30,2021-03-24,2,February,Feb
+54,NexGen Systems,Display,YouTube,19832,3.35,Poor,537,4739,11,0.02,9,Outdoor Adventurers,Women,35-44,New York,2021-02-23,45,2021-04-09,2,February,Feb
+55,NexGen Systems,Social Media,YouTube,17375,6.15,Good,450,6012,23,0.05,7,Foodies,Men,18-24,Miami,2021-02-24,30,2021-03-26,2,February,Feb
+56,NexGen Systems,Display,Website,8903,3.7,Poor,178,8529,23,0.13,9,Health & Wellness,Men,25-34,Miami,2021-02-25,15,2021-03-12,2,February,Feb
+57,NexGen Systems,Email,Website,14511,6.66,Good,164,2122,7,0.04,8,Foodies,Women,35-44,Chicago,2021-02-26,15,2021-03-13,2,February,Feb
+58,Innovate Industries,Email,Email,17305,2.7,Poor,569,1850,34,0.06,2,Fashionistas,Men,18-24,New York,2021-02-27,60,2021-04-28,2,February,Feb
+59,Alpha Innovations,Email,Email,18063,4.93,Good,330,6920,13,0.04,6,Foodies,Women,25-34,Chicago,2021-02-28,45,2021-04-14,2,February,Feb
+60,Innovate Industries,Display,Email,10293,6.8,Good,256,3421,13,0.05,9,Health & Wellness,Men,25-34,Miami,2021-03-01,15,2021-03-16,3,March,Mar
+61,DataTech Solutions,Email,Email,8785,2.27,Poor,849,9217,42,0.05,5,Fashionistas,Men,25-34,New York,2021-03-02,45,2021-04-16,3,March,Mar
+62,TechCorp,Email,Email,13848,5.32,Good,261,1958,23,0.09,2,Tech Enthusiasts,Men,25-34,Los Angeles,2021-03-03,30,2021-04-02,3,March,Mar
+63,Innovate Industries,Influencer,Email,14435,7.04,Excellent,592,3596,6,0.01,4,Foodies,Women,35-44,Houston,2021-03-04,60,2021-05-03,3,March,Mar
+64,NexGen Systems,Search,Facebook,14001,3.71,Poor,201,8702,4,0.02,10,Outdoor Adventurers,Men,18-24,Chicago,2021-03-05,30,2021-04-04,3,March,Mar
+65,DataTech Solutions,Display,Website,8841,7.43,Excellent,648,9122,71,0.11,9,Fashionistas,Both,All ages,Houston,2021-03-06,45,2021-04-20,3,March,Mar
+66,NexGen Systems,Search,YouTube,11366,7.28,Excellent,187,5048,7,0.04,8,Health & Wellness,Both,All ages,Los Angeles,2021-03-07,60,2021-05-06,3,March,Mar
+67,Alpha Innovations,Display,YouTube,12910,6.33,Good,839,5569,59,0.07,7,Foodies,Women,25-34,Miami,2021-03-08,30,2021-04-07,3,March,Mar
+68,TechCorp,Search,YouTube,7823,2.72,Poor,240,2512,29,0.12,6,Tech Enthusiasts,Women,25-34,New York,2021-03-09,60,2021-05-08,3,March,Mar
+69,TechCorp,Display,Facebook,11864,7.98,Excellent,932,9973,28,0.03,9,Tech Enthusiasts,Both,All ages,Chicago,2021-03-10,15,2021-03-25,3,March,Mar
+70,Innovate Industries,Email,Facebook,17414,4.74,Good,694,2836,69,0.1,2,Foodies,Both,All ages,Los Angeles,2021-03-11,15,2021-03-26,3,March,Mar
+71,Alpha Innovations,Search,Website,18201,5.58,Good,202,6745,26,0.13,8,Tech Enthusiasts,Men,25-34,New York,2021-03-12,30,2021-04-11,3,March,Mar
+72,Alpha Innovations,Social Media,Email,9549,5.61,Good,416,9187,12,0.03,7,Health & Wellness,Both,All ages,Chicago,2021-03-13,15,2021-03-28,3,March,Mar
+73,TechCorp,Social Media,YouTube,16635,7.46,Excellent,576,9999,75,0.13,10,Health & Wellness,Women,35-44,Miami,2021-03-14,15,2021-03-29,3,March,Mar
+74,NexGen Systems,Influencer,Facebook,9310,5.63,Good,300,3687,30,0.1,9,Foodies,Both,All ages,New York,2021-03-15,45,2021-04-29,3,March,Mar
+75,NexGen Systems,Display,YouTube,5158,6.67,Good,776,4238,85,0.11,3,Health & Wellness,Both,All ages,Chicago,2021-03-16,15,2021-03-31,3,March,Mar
+76,Innovate Industries,Search,Instagram,15182,2.03,Poor,492,7364,20,0.04,2,Fashionistas,Men,25-34,Houston,2021-03-17,30,2021-04-16,3,March,Mar
+77,Innovate Industries,Display,Google Ads,5703,3.23,Poor,763,8501,61,0.08,10,Foodies,Men,18-24,Chicago,2021-03-18,45,2021-05-02,3,March,Mar
+78,Innovate Industries,Search,Google Ads,12008,4.82,Good,817,7892,16,0.02,2,Health & Wellness,Women,35-44,Miami,2021-03-19,60,2021-05-18,3,March,Mar
+79,NexGen Systems,Display,Google Ads,15850,7.74,Excellent,791,3594,103,0.13,4,Outdoor Adventurers,Women,35-44,New York,2021-03-20,45,2021-05-04,3,March,Mar
+80,Alpha Innovations,Influencer,Email,9813,6.57,Good,737,9941,74,0.1,6,Fashionistas,Women,25-34,Miami,2021-03-21,30,2021-04-20,3,March,Mar
+81,Innovate Industries,Influencer,Google Ads,19300,7.62,Excellent,159,3643,22,0.14,1,Outdoor Adventurers,Women,35-44,Miami,2021-03-22,60,2021-05-21,3,March,Mar
+82,NexGen Systems,Social Media,YouTube,17772,6.33,Good,913,1921,110,0.12,5,Foodies,Women,25-34,New York,2021-03-23,45,2021-05-07,3,March,Mar
+83,Innovate Industries,Influencer,Facebook,17293,3.74,Poor,238,8969,24,0.1,6,Outdoor Adventurers,Women,25-34,Houston,2021-03-24,60,2021-05-23,3,March,Mar
+84,NexGen Systems,Search,YouTube,8398,3.99,Poor,134,3108,11,0.08,1,Health & Wellness,Both,All ages,Miami,2021-03-25,60,2021-05-24,3,March,Mar
+85,Alpha Innovations,Influencer,Email,15866,2.3,Poor,159,2139,24,0.15,10,Health & Wellness,Women,35-44,Houston,2021-03-26,60,2021-05-25,3,March,Mar
+86,TechCorp,Social Media,YouTube,7515,7.38,Excellent,635,8489,83,0.13,3,Foodies,Both,All ages,Houston,2021-03-27,30,2021-04-26,3,March,Mar
+87,DataTech Solutions,Email,YouTube,19026,2.22,Poor,187,2573,28,0.15,10,Fashionistas,Women,25-34,Miami,2021-03-28,15,2021-04-12,3,March,Mar
+88,TechCorp,Search,Facebook,8280,7.89,Excellent,537,3042,75,0.14,1,Outdoor Adventurers,Men,18-24,New York,2021-03-29,60,2021-05-28,3,March,Mar
+89,Alpha Innovations,Display,Google Ads,18251,4.41,Good,597,8117,60,0.1,6,Tech Enthusiasts,Women,25-34,New York,2021-03-30,30,2021-04-29,3,March,Mar
+90,DataTech Solutions,Display,Instagram,13108,2.01,Poor,550,3839,39,0.07,7,Tech Enthusiasts,Both,All ages,Houston,2021-03-31,15,2021-04-15,3,March,Mar
+91,NexGen Systems,Influencer,YouTube,15477,6.98,Good,956,9087,86,0.09,3,Foodies,Women,35-44,Houston,2021-04-01,15,2021-04-16,4,April,Apr
+92,TechCorp,Email,Email,17705,7.0,Good,628,9545,57,0.09,4,Outdoor Adventurers,Men,25-34,New York,2021-04-02,45,2021-05-17,4,April,Apr
+93,Innovate Industries,Display,Instagram,18470,2.57,Poor,938,7879,47,0.05,10,Fashionistas,Women,35-44,Chicago,2021-04-03,15,2021-04-18,4,April,Apr
+94,NexGen Systems,Display,Instagram,14438,7.19,Excellent,147,6497,1,0.01,10,Health & Wellness,Men,25-34,New York,2021-04-04,45,2021-05-19,4,April,Apr
+95,NexGen Systems,Search,Facebook,6278,4.93,Good,776,4289,62,0.08,8,Foodies,Men,18-24,Miami,2021-04-05,45,2021-05-20,4,April,Apr
+96,TechCorp,Social Media,Email,5185,4.61,Good,108,9532,9,0.08,1,Tech Enthusiasts,Both,All ages,New York,2021-04-06,15,2021-04-21,4,April,Apr
+97,Innovate Industries,Email,Instagram,18799,3.69,Poor,395,6079,55,0.14,8,Health & Wellness,Women,25-34,Miami,2021-04-07,15,2021-04-22,4,April,Apr
+98,Alpha Innovations,Search,Facebook,7365,7.96,Excellent,419,4484,17,0.04,1,Fashionistas,Both,All ages,New York,2021-04-08,60,2021-06-07,4,April,Apr
+99,Alpha Innovations,Search,Instagram,6565,3.12,Poor,463,6061,9,0.02,8,Foodies,Both,All ages,New York,2021-04-09,60,2021-06-08,4,April,Apr
+100,TechCorp,Display,Facebook,9022,5.58,Good,521,2572,47,0.09,4,Tech Enthusiasts,Both,All ages,Miami,2021-04-10,60,2021-06-09,4,April,Apr
