@@ -1,0 +1,6 @@
+Campaigns,Campaign_Frequency,Avg_ROI,rank_ROI,Sum_of_Cost,rank_Cost,Sum_of_Clicks,rank_Clicks,Sum_of_Impressions,rank_Impressions,Sum_of_Conversions,rank_Conversions,Avg_score,rank_avg_score,Avg_Conversion_Rate
+Influencer,40169,5.011,1,502400525,1,22037657,1,220769081,2,1771647,1,5.483,5,0.08
+Search,40157,5.008,2,501911760,2,22032144,2,221415139,1,1764591,2,5.487,4,0.08
+Display,39987,5.007,3,500158774,3,22030979,3,220074756,4,1764182,3,5.506,1,0.08
+Email,39870,4.994,4,498189449,5,21897902,5,220144927,3,1747397,5,5.5,2,0.08
+Social Media,39817,4.992,5,498218100,4,21955724,4,219056401,5,1758837,4,5.498,3,0.08
