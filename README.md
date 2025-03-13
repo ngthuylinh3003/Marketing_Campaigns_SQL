@@ -42,7 +42,7 @@ With this analysis, companies and marketers can uncover valuable insights regard
 - **ROI optimization** 
 (depending on each company's objectives, aiming to **maximize ROI** while **minimizing costs**).  
 
-### 4) 📊  3 main parts
+### 4) 3)Personal Approach & Tools  
 For this analysis, after thoroughly understanding the dataset and mapping out a **logical tree**, I structured my approach into **three main parts**:  
 1️⃣ **SQL-Data Cleaning & Enrichment**: Preparing and refining the raw dataset.  
 2️⃣ **SQL-based Analysis**: Extracting key insights using structured queries.  
