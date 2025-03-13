@@ -1,4 +1,4 @@
-# Marketing_Campaigns_Sql_Power_BI
+# 📢 Marketing Campaigns
 
 ## 1) Dataset & Outputs
 
