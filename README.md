@@ -16,10 +16,10 @@ The dataset was sourced from Kaggle and consists of a **table with 16 columns** 
 ## ⚡ Approach
 The analysis combines **SQL (Google BigQuery) and Power BI** for data processing and visualization:  
 
-### **1. Building a Logical Tree:** 
+### **1. Building a [Logical Tree](https://github.com/ngthuylinh3003/Marketing_Campaigns_SQL/blob/b0a3d7ebc60aa432ae265c3c99e3438361c1f555/Logical_tree.png) :** 
 - To define key factors for analysis & identify **necessary metrics** to calculate from the dataset
 
-### **2. Data Cleaning using SQL (Google BigQuery)**  
+### **2. Data Cleaning using [SQL](https://github.com/ngthuylinh3003/Marketing_Campaigns_SQL/blob/b0a3d7ebc60aa432ae265c3c99e3438361c1f555/pj1_data_cleaning.sql) (Google BigQuery)**  
 - **Renaming columns**, handling **NULL values**, and adjusting **data types**  
 - **Enriching data** by creating new columns  before importing into Power BI
 
